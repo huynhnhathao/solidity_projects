@@ -3,8 +3,8 @@ pragma solidity 0.8.13;
 
 import "forge-std/Test.sol";
 
-import "../src/PaymentSystem.sol";
-import "../src/MyToken.sol";
+import "../src/Seller.sol";
+import "../src/Token.sol";
 
 // This contract act as an EOA customer
 contract Customer {
