@@ -1,3 +1,6 @@
 [submodule "payment/lib/openzeppelin-contracts"]
 	path = payment/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "payment/lib/solmate"]
+	path = payment/lib/solmate
+	url = https://github.com/Rari-Capital/solmate
