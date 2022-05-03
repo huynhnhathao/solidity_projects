@@ -4,3 +4,6 @@
 [submodule "payment/lib/solmate"]
 	path = payment/lib/solmate
 	url = https://github.com/Rari-Capital/solmate
+[submodule "investing_pool/lib/openzepplin-contracts"]
+	path = investing_pool/lib/openzepplin-contracts
+	url = https://github.com/openzepplin/openzepplin-contracts
