@@ -7,3 +7,6 @@
 [submodule "investing_pool/lib/openzepplin-contracts"]
 	path = investing_pool/lib/openzepplin-contracts
 	url = https://github.com/openzepplin/openzepplin-contracts
+[submodule "investing_pool/lib/solmate"]
+	path = investing_pool/lib/solmate
+	url = https://github.com/Rari-Capital/solmate
