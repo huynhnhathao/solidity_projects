@@ -1,5 +1,5 @@
 # E-commerce recipient
-This project implement a contract that act as a recipient who receive order's payment from customer and verify the order's payment. The mechanism is simple:
+This project implements a contract that acts as a recipient who receives order's payment from customers and verifies the order's payments. The mechanism is simple:
 
 1. A random e-commerce company decided to accept cryptocurrencies payment for their products, and want to make a promise to there customer that: you can get a refund if you don't satisfy with the delivered products. This promise is strong and the customers's doubt is understandable. Then, the company can use hardcoded-promise in smart contract to make the promises unbreakable.
 2. When a user go to the checkout page, we ask them to lock their tokens to the contract (an amount of tokens equal to the one in the bill, convert to multiple different tokens that are accepted by the company)
